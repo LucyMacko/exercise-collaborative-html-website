@@ -1,13 +1,7 @@
-.background-image {
-    z-index: 0;
-}
-
-.headlines {
-z-index: 1;
+body{
+    background: white;
 }
 
 .card-title{
     color: #4682B4;
 }
-
-
