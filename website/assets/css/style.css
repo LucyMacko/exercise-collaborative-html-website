@@ -5,3 +5,11 @@ body{
 .card-title{
     color: #4682B4;
 }
+
+.h1 {
+    font-size:9vw ;
+}
+
+.h3 {
+    font-size:5vw ;
+}
